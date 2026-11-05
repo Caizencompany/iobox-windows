@@ -4,7 +4,7 @@ Instalador do aplicativo iobox: pedidos com alerta sonoro, impressão automátic
 
 **[Baixar o iobox para Windows](https://github.com/Caizencompany/iobox-windows/raw/main/iobox-Setup.exe)**
 
-- Versão 1.5.0 · Windows 10 e 11
+- Versão 1.5.1 · Windows 10 e 11
 - O serviço de impressão já vem junto
 - Use o mesmo login do painel iobox
 
