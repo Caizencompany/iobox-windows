@@ -1,8 +1,8 @@
-version: 1.5.1
+version: 1.5.2
 files:
   - url: iobox-Setup.exe
-    sha512: LEBvXelsKWcUGyay/TWd6OBpe4Ek8zmzVhrslr0qaADeVmpWOIWOwe/0UDqJc6FKMThm9bqyh4BRHIwh+0au/w==
-    size: 94466824
+    sha512: NFclhEhxZ5bRWnAFSX5t7NKM6nkZYqky/wRUgZBef9yMH4oLOPYIl0WXUwHD+XpZjLhtqS43qArlyT1PO8eZ3g==
+    size: 94467182
 path: iobox-Setup.exe
-sha512: LEBvXelsKWcUGyay/TWd6OBpe4Ek8zmzVhrslr0qaADeVmpWOIWOwe/0UDqJc6FKMThm9bqyh4BRHIwh+0au/w==
-releaseDate: '2026-11-05T03:28:04.907Z'
+sha512: NFclhEhxZ5bRWnAFSX5t7NKM6nkZYqky/wRUgZBef9yMH4oLOPYIl0WXUwHD+XpZjLhtqS43qArlyT1PO8eZ3g==
+releaseDate: '2026-11-06T04:28:57.815Z'
